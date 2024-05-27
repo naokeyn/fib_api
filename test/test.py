@@ -1,7 +1,7 @@
 import unittest
 import requests
 
-class TestSuccess(unittest.TestCase):
+class TestWebApi(unittest.TestCase):
     
     # TARGET_URL = "http://localhost:5000/fib"
     TARGET_URL = "https://naokey.pythonanywhere.com/fib"
