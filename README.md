@@ -1,5 +1,8 @@
 # 技術課題1
 
+![](https://img.shields.io/badge/python-v.3.9.9-blue.svg?logo=python)
+![](https://img.shields.io/badge/Flask-v.2.2.5-orange.svg?logo=flask)
+
 公開URL: https://naokey.pythonanywhere.com/fib?n=10
 
 ソースコードの構成
